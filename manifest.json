@@ -1,6 +1,7 @@
 {
   "name": "Sonoros Studios",
   "short_name": "Sonoros",
+  "description": "Aplicación oficial de reproducción musical para Sanchez Brothers Entertainment.",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#0a0a0a",
